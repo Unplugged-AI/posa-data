@@ -1,0 +1,533 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "2026-08-07.1",
+  "generatedAt": "2026-08-08T01:42:09Z",
+  "region": "US",
+  "stateCount": 51,
+  "totalBytes": 11973478170,
+  "releaseUrl": "https://github.com/Unplugged-AI/posa-data/releases/tag/v2026.08.07.1",
+  "dataLicense": {
+    "spdx": "ODbL-1.0",
+    "attribution": "© OpenStreetMap contributors",
+    "copyrightUrl": "https://www.openstreetmap.org/copyright"
+  },
+  "formats": {
+    "archive": "ZIP",
+    "map": "Mapsforge v5",
+    "poi": "Mapsforge POI v3"
+  },
+  "sourceSnapshotsAligned": false,
+  "safetyNotice": "Mapped data does not prove current access, conditions, availability, potability, operating hours, or route safety.",
+  "states": [
+    {
+      "stateCode": "AL",
+      "stateName": "Alabama",
+      "slug": "alabama",
+      "version": "2026-08-07.1",
+      "fileName": "posa-alabama-2026-08-07.1.zip",
+      "byteSize": 142191972,
+      "sha256": "b6875c10dd34a8e35337e07575c3a1653a8a861599e055ef4ef54086abd0adfe",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-alabama-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "AK",
+      "stateName": "Alaska",
+      "slug": "alaska",
+      "version": "2026-08-07.1",
+      "fileName": "posa-alaska-2026-08-07.1.zip",
+      "byteSize": 1229216291,
+      "sha256": "1183133a45ed737daa378c985db1bc3b3f2b552268181b3d24c42575f10f8d08",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-alaska-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "AZ",
+      "stateName": "Arizona",
+      "slug": "arizona",
+      "version": "2026-08-07.1",
+      "fileName": "posa-arizona-2026-08-07.1.zip",
+      "byteSize": 313834701,
+      "sha256": "e7c958f0e0568d30b9d3d1018ad6895517d04c3e2ede947289126ba0fef73314",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-arizona-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "AR",
+      "stateName": "Arkansas",
+      "slug": "arkansas",
+      "version": "2026-08-07.1",
+      "fileName": "posa-arkansas-2026-08-07.1.zip",
+      "byteSize": 92480640,
+      "sha256": "53c38a9f6b6bc30b09077a5ec267a6a6a48c698300862042885124724a147cc5",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-arkansas-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "CA",
+      "stateName": "California",
+      "slug": "california",
+      "version": "2026-08-07.1",
+      "fileName": "posa-california-2026-08-07.1.zip",
+      "byteSize": 1059935026,
+      "sha256": "eb5a97fa93cded3215a0efa582023cad45fbf486db6424822a399069f0e4316c",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-california-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "slug": "colorado",
+      "version": "2026-08-07.1",
+      "fileName": "posa-colorado-2026-08-07.1.zip",
+      "byteSize": 307139056,
+      "sha256": "ef0c1da7afd2dba27a16acec59bd6fd503618497dea573dc3012cf476e2777a1",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-colorado-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "CT",
+      "stateName": "Connecticut",
+      "slug": "connecticut",
+      "version": "2026-08-07.1",
+      "fileName": "posa-connecticut-2026-08-07.1.zip",
+      "byteSize": 156367256,
+      "sha256": "559c7c7a12b91f5a39324a31d9703fc77f1d4f1a84bb483860af9931df0493f4",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-connecticut-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "DE",
+      "stateName": "Delaware",
+      "slug": "delaware",
+      "version": "2026-08-07.1",
+      "fileName": "posa-delaware-2026-08-07.1.zip",
+      "byteSize": 21476610,
+      "sha256": "9b212d4930e7185f5f50a4babc43c251057b4997837adb2c50001379f41020db",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-delaware-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "DC",
+      "stateName": "District of Columbia",
+      "slug": "district-of-columbia",
+      "version": "2026-08-07.1",
+      "fileName": "posa-district-of-columbia-2026-08-07.1.zip",
+      "byteSize": 19195536,
+      "sha256": "bcbd71e7d0b57c77f8d6c9128a07b8364a67e59dbf72d84264e0d8c86b53d5c8",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-district-of-columbia-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "FL",
+      "stateName": "Florida",
+      "slug": "florida",
+      "version": "2026-08-07.1",
+      "fileName": "posa-florida-2026-08-07.1.zip",
+      "byteSize": 739954663,
+      "sha256": "1ffb5a612e49a554365ed2de8ec8d85ec67ae1691f5bac95058c1d1cdd389e04",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-florida-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "GA",
+      "stateName": "Georgia",
+      "slug": "georgia",
+      "version": "2026-08-07.1",
+      "fileName": "posa-georgia-2026-08-07.1.zip",
+      "byteSize": 297636497,
+      "sha256": "8b5fab7a388971b487f6b5e2f4fced49daef098da4522e5362d5ac5c4a53dc47",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-georgia-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "HI",
+      "stateName": "Hawaii",
+      "slug": "hawaii",
+      "version": "2026-08-07.1",
+      "fileName": "posa-hawaii-2026-08-07.1.zip",
+      "byteSize": 90129470,
+      "sha256": "28e7338ab8ba6b670ebef1f0418bc663530bf653981409b6d94215dd2a8d563d",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-hawaii-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "ID",
+      "stateName": "Idaho",
+      "slug": "idaho",
+      "version": "2026-08-07.1",
+      "fileName": "posa-idaho-2026-08-07.1.zip",
+      "byteSize": 112059670,
+      "sha256": "5e6e23080d0074a17f9e9b1536efc025025ed6c05e1d5f1a14c4956a13731eb2",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-idaho-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "IL",
+      "stateName": "Illinois",
+      "slug": "illinois",
+      "version": "2026-08-07.1",
+      "fileName": "posa-illinois-2026-08-07.1.zip",
+      "byteSize": 350431479,
+      "sha256": "74d1bf0e4b91bbee5281ca622cde24710977f6251f5b53b2758e671ccb834852",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-illinois-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "IN",
+      "stateName": "Indiana",
+      "slug": "indiana",
+      "version": "2026-08-07.1",
+      "fileName": "posa-indiana-2026-08-07.1.zip",
+      "byteSize": 188414674,
+      "sha256": "7689b353d1f63edc97508c4969a40e5373448c06fe74b6d05241e9b36f8e6481",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-indiana-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "IA",
+      "stateName": "Iowa",
+      "slug": "iowa",
+      "version": "2026-08-07.1",
+      "fileName": "posa-iowa-2026-08-07.1.zip",
+      "byteSize": 123567793,
+      "sha256": "fd87dcf7125339d54836899a09e668569421c293de59f17d9e6e7cba7caa4af8",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-iowa-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "KS",
+      "stateName": "Kansas",
+      "slug": "kansas",
+      "version": "2026-08-07.1",
+      "fileName": "posa-kansas-2026-08-07.1.zip",
+      "byteSize": 109422350,
+      "sha256": "e5773966426ad1cf643bb82c43f289422dafbb4f87c24bcf72473ae56f81e124",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-kansas-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "KY",
+      "stateName": "Kentucky",
+      "slug": "kentucky",
+      "version": "2026-08-07.1",
+      "fileName": "posa-kentucky-2026-08-07.1.zip",
+      "byteSize": 128625903,
+      "sha256": "97a5bfbdf73937629f22830b0d847814d7dc55ed5065a2db5efda5934b70b98a",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-kentucky-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "LA",
+      "stateName": "Louisiana",
+      "slug": "louisiana",
+      "version": "2026-08-07.1",
+      "fileName": "posa-louisiana-2026-08-07.1.zip",
+      "byteSize": 128002327,
+      "sha256": "8821f8f841f615b9da156effe25144d56dac9be1bcd0aaead7ca7e7fc36a6162",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-louisiana-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "ME",
+      "stateName": "Maine",
+      "slug": "maine",
+      "version": "2026-08-07.1",
+      "fileName": "posa-maine-2026-08-07.1.zip",
+      "byteSize": 87801227,
+      "sha256": "7ce8b062d7e03eca1e010a7aadb2c1d4932ecc387c7274aec8a05129e66813a9",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-maine-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "MD",
+      "stateName": "Maryland",
+      "slug": "maryland",
+      "version": "2026-08-07.1",
+      "fileName": "posa-maryland-2026-08-07.1.zip",
+      "byteSize": 196114804,
+      "sha256": "45fd8b274acca978cd1c00affce414fda7acc751c6dd7d07de45017d16ed77e2",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-maryland-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "MA",
+      "stateName": "Massachusetts",
+      "slug": "massachusetts",
+      "version": "2026-08-07.1",
+      "fileName": "posa-massachusetts-2026-08-07.1.zip",
+      "byteSize": 243542534,
+      "sha256": "89064619aa2eac426c947c7c30911fba5c92044e1de934ed9ff42154658d13e3",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-massachusetts-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "MI",
+      "stateName": "Michigan",
+      "slug": "michigan",
+      "version": "2026-08-07.1",
+      "fileName": "posa-michigan-2026-08-07.1.zip",
+      "byteSize": 317318660,
+      "sha256": "da4c28feb846558ee312ce6e2b09f656187b5338c730cf800a5ef9468bdc6fc9",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-michigan-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "MN",
+      "stateName": "Minnesota",
+      "slug": "minnesota",
+      "version": "2026-08-07.1",
+      "fileName": "posa-minnesota-2026-08-07.1.zip",
+      "byteSize": 247312166,
+      "sha256": "b47b9f2e3df8beab44b4aa41d829f509e260f4cc28d1b00f96ba5658bb9ccead",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-minnesota-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "MS",
+      "stateName": "Mississippi",
+      "slug": "mississippi",
+      "version": "2026-08-07.1",
+      "fileName": "posa-mississippi-2026-08-07.1.zip",
+      "byteSize": 75739283,
+      "sha256": "df1448346ca6112700f1a1b5e520b8abe811bf1642b3bceea629acf223420c31",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-mississippi-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "MO",
+      "stateName": "Missouri",
+      "slug": "missouri",
+      "version": "2026-08-07.1",
+      "fileName": "posa-missouri-2026-08-07.1.zip",
+      "byteSize": 181648802,
+      "sha256": "49ff9c82dbba4eaf745b69feac4e935b6e059918a5d058708a9c6fe0f6e389a4",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-missouri-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "MT",
+      "stateName": "Montana",
+      "slug": "montana",
+      "version": "2026-08-07.1",
+      "fileName": "posa-montana-2026-08-07.1.zip",
+      "byteSize": 106194405,
+      "sha256": "130b0f6bd3364d2472fb987e935327202c924b9d765492d26786c8153c802918",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-montana-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "NE",
+      "stateName": "Nebraska",
+      "slug": "nebraska",
+      "version": "2026-08-07.1",
+      "fileName": "posa-nebraska-2026-08-07.1.zip",
+      "byteSize": 93728217,
+      "sha256": "d3e23a769aba7c3064c72804c6cc5780fd628444cd2b75921d18fd08850dd9a2",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-nebraska-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "NV",
+      "stateName": "Nevada",
+      "slug": "nevada",
+      "version": "2026-08-07.1",
+      "fileName": "posa-nevada-2026-08-07.1.zip",
+      "byteSize": 119129366,
+      "sha256": "b066a837fff5dc8c0287ef1139894c528c318cc4a088613db979dc7502be8b81",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-nevada-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "NH",
+      "stateName": "New Hampshire",
+      "slug": "new-hampshire",
+      "version": "2026-08-07.1",
+      "fileName": "posa-new-hampshire-2026-08-07.1.zip",
+      "byteSize": 62561570,
+      "sha256": "f51f262897fad09c12790bb159d99aa84805439dd7d243fd16842f3711ebe717",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-new-hampshire-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "NJ",
+      "stateName": "New Jersey",
+      "slug": "new-jersey",
+      "version": "2026-08-07.1",
+      "fileName": "posa-new-jersey-2026-08-07.1.zip",
+      "byteSize": 153851264,
+      "sha256": "7a09a35a6c2bfa26bb33a6f58c9b3166dbad5c649d715be0c65114e25cc96e16",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-new-jersey-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "NM",
+      "stateName": "New Mexico",
+      "slug": "new-mexico",
+      "version": "2026-08-07.1",
+      "fileName": "posa-new-mexico-2026-08-07.1.zip",
+      "byteSize": 130375759,
+      "sha256": "c70392e09ad80fe90de8f68114e1c7809b3d645c28cba06d86e1019be6f5b403",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-new-mexico-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "NY",
+      "stateName": "New York",
+      "slug": "new-york",
+      "version": "2026-08-07.1",
+      "fileName": "posa-new-york-2026-08-07.1.zip",
+      "byteSize": 470002051,
+      "sha256": "7956a0dca3f3d6027c80cb271fef6798931f6b2c214eee5bdb65203551c7d7ac",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-new-york-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "NC",
+      "stateName": "North Carolina",
+      "slug": "north-carolina",
+      "version": "2026-08-07.1",
+      "fileName": "posa-north-carolina-2026-08-07.1.zip",
+      "byteSize": 357672927,
+      "sha256": "9a228738a20f6440fa74041ea2dc90ff303ddd0aa51707d56cb4275e12ec1388",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-north-carolina-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "ND",
+      "stateName": "North Dakota",
+      "slug": "north-dakota",
+      "version": "2026-08-07.1",
+      "fileName": "posa-north-dakota-2026-08-07.1.zip",
+      "byteSize": 86737796,
+      "sha256": "807356e5e5c084c659242caaf3d6a2748f2fd9c76f6ec3483b4d4614e9a6d63f",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-north-dakota-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "OH",
+      "stateName": "Ohio",
+      "slug": "ohio",
+      "version": "2026-08-07.1",
+      "fileName": "posa-ohio-2026-08-07.1.zip",
+      "byteSize": 311525898,
+      "sha256": "24e57386f58f791097a311a61e290cf4de95a6e0594063dbcc3896e8b582f0c7",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-ohio-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "OK",
+      "stateName": "Oklahoma",
+      "slug": "oklahoma",
+      "version": "2026-08-07.1",
+      "fileName": "posa-oklahoma-2026-08-07.1.zip",
+      "byteSize": 137252014,
+      "sha256": "22699ac558d7b66562fd0fbbab460d4ee79e7a5fc73667e2599a0e965449c6a8",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-oklahoma-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "OR",
+      "stateName": "Oregon",
+      "slug": "oregon",
+      "version": "2026-08-07.1",
+      "fileName": "posa-oregon-2026-08-07.1.zip",
+      "byteSize": 227014946,
+      "sha256": "dc563b571ad3e35ae91f9b75a6929a62f13f910dcdf6b8a4836df76cf37a9ad1",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-oregon-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "PA",
+      "stateName": "Pennsylvania",
+      "slug": "pennsylvania",
+      "version": "2026-08-07.1",
+      "fileName": "posa-pennsylvania-2026-08-07.1.zip",
+      "byteSize": 321294785,
+      "sha256": "f54997da1e52882fe320a19406bf9cfd1eaec7dad83dd7b365a0cd497fa8631c",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-pennsylvania-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "RI",
+      "stateName": "Rhode Island",
+      "slug": "rhode-island",
+      "version": "2026-08-07.1",
+      "fileName": "posa-rhode-island-2026-08-07.1.zip",
+      "byteSize": 41536091,
+      "sha256": "37edcb36ff0739b7f2e9901cea2c34987260a921d126e947af09db9fc547de7e",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-rhode-island-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "SC",
+      "stateName": "South Carolina",
+      "slug": "south-carolina",
+      "version": "2026-08-07.1",
+      "fileName": "posa-south-carolina-2026-08-07.1.zip",
+      "byteSize": 146546898,
+      "sha256": "799e1018901f860576bf24d12e8ee31da6302dc1309c6112294e260e52cebccc",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-south-carolina-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "SD",
+      "stateName": "South Dakota",
+      "slug": "south-dakota",
+      "version": "2026-08-07.1",
+      "fileName": "posa-south-dakota-2026-08-07.1.zip",
+      "byteSize": 50986616,
+      "sha256": "b6c2adf6c3bde6d7bce0f3ee8bdec518aa047542421398b1393fa8778b2b892a",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-south-dakota-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "TN",
+      "stateName": "Tennessee",
+      "slug": "tennessee",
+      "version": "2026-08-07.1",
+      "fileName": "posa-tennessee-2026-08-07.1.zip",
+      "byteSize": 168545019,
+      "sha256": "4d622d7648d000bf4f4aebe39b22f10e2d190bea063aeac8eaa936b8cd440d4b",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-tennessee-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "TX",
+      "stateName": "Texas",
+      "slug": "texas",
+      "version": "2026-08-07.1",
+      "fileName": "posa-texas-2026-08-07.1.zip",
+      "byteSize": 686962148,
+      "sha256": "356d4c65f0a7a2ed349d1040027e65cab77414eec08aa46bf0f9d502ddea5fa7",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-texas-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "UT",
+      "stateName": "Utah",
+      "slug": "utah",
+      "version": "2026-08-07.1",
+      "fileName": "posa-utah-2026-08-07.1.zip",
+      "byteSize": 150764725,
+      "sha256": "861dc26c928d84b411c7dca379ec8136d74f9454ccecf184915bf6c0da35cb23",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-utah-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "VT",
+      "stateName": "Vermont",
+      "slug": "vermont",
+      "version": "2026-08-07.1",
+      "fileName": "posa-vermont-2026-08-07.1.zip",
+      "byteSize": 40394749,
+      "sha256": "2829d3aaa75baefd3bd9bb93e173c3c577b93c557402d1325dc58a8a35247f4c",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-vermont-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "VA",
+      "stateName": "Virginia",
+      "slug": "virginia",
+      "version": "2026-08-07.1",
+      "fileName": "posa-virginia-2026-08-07.1.zip",
+      "byteSize": 345585141,
+      "sha256": "dcf84c5f1af3c7a7016518af2aebd7bf377db84d6f62eaf1317948bd28e80df7",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-virginia-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "WA",
+      "stateName": "Washington",
+      "slug": "washington",
+      "version": "2026-08-07.1",
+      "fileName": "posa-washington-2026-08-07.1.zip",
+      "byteSize": 347216587,
+      "sha256": "772aeb00e663754a955db6ad0a8a6183092c05290b8a50b9c38209b6c319ec57",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-washington-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "WV",
+      "stateName": "West Virginia",
+      "slug": "west-virginia",
+      "version": "2026-08-07.1",
+      "fileName": "posa-west-virginia-2026-08-07.1.zip",
+      "byteSize": 102200970,
+      "sha256": "8473fb3eea1a5501e54ef0570e49114e0838e9513036270906aa8c72c3fe6e2e",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-west-virginia-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "WI",
+      "stateName": "Wisconsin",
+      "slug": "wisconsin",
+      "version": "2026-08-07.1",
+      "fileName": "posa-wisconsin-2026-08-07.1.zip",
+      "byteSize": 263397863,
+      "sha256": "5d5dd953ece7a39baff07ccfd057d95947b228ab9b7c99ccb40c303a41003b88",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-wisconsin-2026-08-07.1.zip"
+    },
+    {
+      "stateCode": "WY",
+      "stateName": "Wyoming",
+      "slug": "wyoming",
+      "version": "2026-08-07.1",
+      "fileName": "posa-wyoming-2026-08-07.1.zip",
+      "byteSize": 92440975,
+      "sha256": "cffbb4269b293391e0aa23c23e7e438024fe4318a4359b447084d911195460b4",
+      "downloadUrl": "https://github.com/Unplugged-AI/posa-data/releases/download/v2026.08.07.1/posa-wyoming-2026-08-07.1.zip"
+    }
+  ]
+}

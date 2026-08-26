@@ -10,6 +10,9 @@ Each state package contains:
 
 Packages are published as GitHub release assets so they can be downloaded without an account. The current collection covers all 50 U.S. states and the District of Columbia.
 
+- [Download the latest release](https://github.com/Unplugged-AI/posa-data/releases/latest)
+- [Read the machine-readable catalog](catalog/v1.json)
+
 ## Data license and attribution
 
 The packaged geographic data is derived from OpenStreetMap and is made available under the Open Database License 1.0.
