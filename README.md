@@ -26,3 +26,7 @@ Mapped data does not prove current access, conditions, availability, potability,
 ## Website
 
 Browse and download packages at [unpluggedai.io/posa/data](https://unpluggedai.io/posa/data).
+
+## Release process
+
+The `scripts/publish-state-bundle.sh` helper assembles one state package from a POSA publish plan, records its checksum, and uploads it to the matching GitHub release. Generated archives stay in `.release-work` until the release has been verified.
